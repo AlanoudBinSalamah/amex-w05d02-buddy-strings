@@ -1,6 +1,9 @@
-# amex-w05d02-buddy-strings
+Buddy Strings!
 
 
+Today we're solving an algo from interview questions!  What's a technical interview?
+
+## Interview Question:
 Create a function that when given two strings that arelowercase letters, returns true if and only if we can swap two letters in A so that the result equals B.
 
  
