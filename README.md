@@ -1,4 +1,4 @@
-#Buddy Strings!
+# Buddy Strings!
 
 
 Today we're solving an algo from interview questions!  We'll be practicing our verbal logic by working in pairs for this.
